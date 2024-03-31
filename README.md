@@ -42,9 +42,9 @@ Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 
 ## 📷Screenshots
 <p float="left">
-<img src="screenshots/s1.png" alt="Image 1" width="200" />
-<img src="screenshots/s2.png" alt="Image 2" width="200" />
-<img src="screenshots/s3.png" alt="Image 3" width="200" />
+<img src="screenshots/s1.png" alt="Image 1" width="250" />
+<img src="screenshots/s2.png" alt="Image 2" width="250" />
+<img src="screenshots/s3.png" alt="Image 3" width="250" />
 </p>
 
 [![star time](https://starchart.cc/chiasmod0n/chiasmodon-mobile.svg?variant=adaptive)](https://starchart.cc/chiasmod0n/chiasmodon-mobile)
