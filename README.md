@@ -29,8 +29,8 @@ Chiasmodon APK is licensed under the [MIT License](LICENSE).
 
 ## Links
 
-- [Chiasmodon GitHub Repository](https://github.com/chiasmod0n/chiasmodon)
-- [Chiasmodon Website](chiasmodon.club)
+- [Chiasmodon Python Library Repository](https://github.com/chiasmod0n/chiasmodon)
+- [Chiasmodon Website](https://chiasmodon.club)
 - [Chiasmodon Telegram](https://t.me/chiasmod0n)
 - [Chiasmodon X/Twitter](https://x.com/chiasmod0n)
 
