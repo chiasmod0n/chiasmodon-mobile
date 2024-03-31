@@ -41,8 +41,10 @@ Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 - [🐦 X/Twitter](https://x.com/chiasmod0n)
 
 ## Screenshots
-![s2](screenshots/s1.png)
-![s2](screenshots/s2.png)
+<p float="left">
+<img src="screenshots/s1.png" alt="Image 1" width="300" />
+<img src="screenshots/s2.png" alt="Image 2" width="300" />
+</p>
 
 [![star time](https://starchart.cc/chiasmod0n/chiasmodon-mobile.svg?variant=adaptive)](https://starchart.cc/chiasmod0n/chiasmodon-mobile)
 
