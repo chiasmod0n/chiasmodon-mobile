@@ -6,7 +6,7 @@ This repository contains the APK (Android Package) for Chiasmodon, an OSINT tool
 
 To install and run Chiasmodon mobile on an Android device, follow these steps:
 
-1. Download the APK file from the [Releases](https://github.com/chiasmod0n/chiasmodon/releases) page.
+1. Download the APK file from the [Releases](https://github.com/chiasmod0n/chiasmodon-mobile/releases) page.
 2. Transfer the APK file to your Android device.
 3. On your Android device, navigate to the location of the APK file using a file manager.
 4. Tap on the APK file to initiate the installation process.
