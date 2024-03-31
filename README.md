@@ -40,7 +40,7 @@ Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 - [💬 Telegram](https://t.me/chiasmod0n)
 - [🐦 X/Twitter](https://x.com/chiasmod0n)
 
-## Screenshots
+## 📷Screenshots
 <p float="left">
 <img src="screenshots/s1.png" alt="Image 1" width="300" />
 <img src="screenshots/s2.png" alt="Image 2" width="300" />
