@@ -1,5 +1,5 @@
-import 'package:firstproject/tool.dart';
-import 'package:firstproject/token.dart';
+import 'package:chiasmodon/tool.dart';
+import 'package:chiasmodon/token.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 

@@ -1,6 +1,6 @@
 {
-    "name": "firstproject",
-    "short_name": "firstproject",
+    "name": "chiasmodon",
+    "short_name": "chiasmodon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
