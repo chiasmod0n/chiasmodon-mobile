@@ -29,7 +29,8 @@ Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 
 ## Links
 
-- [Chiasmodon Python Library Repository](https://github.com/chiasmod0n/chiasmodon)
+- [Chiasmodon Python Library](https://pypi.org/project/chiasmodon)
+- [Chiasmodon Cli](https://github.com/chiasmod0n/chiasmodon)
 - [Chiasmodon Website](https://chiasmodon.club)
 - [Chiasmodon Telegram](https://t.me/chiasmod0n)
 - [Chiasmodon X/Twitter](https://x.com/chiasmod0n)
