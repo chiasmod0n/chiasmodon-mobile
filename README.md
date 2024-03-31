@@ -1,10 +1,10 @@
-# Chiasmodon APK
+# Chiasmodon mobile
 
 This repository contains the APK (Android Package) for Chiasmodon, an OSINT tool designed to assist in the process of gathering information about a target domain. The primary functionality of Chiasmodon revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs, ASNs, subdomains, and allows users to search Google Play application IDs.
 
 ## Usage
 
-To install and run Chiasmodon APK on an Android device, follow these steps:
+To install and run Chiasmodon mobile on an Android device, follow these steps:
 
 1. Download the APK file from the [Releases](https://github.com/chiasmod0n/chiasmodon/releases) page.
 2. Transfer the APK file to your Android device.
@@ -25,7 +25,7 @@ If you'd like to contribute to Chiasmodon, please follow the guidelines in [CONT
 
 ## License
 
-Chiasmodon APK is licensed under the [MIT License](LICENSE).
+Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 
 ## Links
 
