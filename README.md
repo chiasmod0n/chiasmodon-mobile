@@ -30,12 +30,12 @@ If you'd like to contribute to Chiasmodon, please follow the guidelines in [CONT
 
 Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 
-## 🔗Links
+## 🔗Chiasmodon Links
 
-- [Chiasmodon Python Library](https://pypi.org/project/chiasmodon)
-- [Chiasmodon Cli](https://github.com/chiasmod0n/chiasmodon)
-- [Chiasmodon Website](https://chiasmodon.club)
-- [Chiasmodon Telegram](https://t.me/chiasmod0n)
-- [Chiasmodon X/Twitter](https://x.com/chiasmod0n)
+- [🐍 Python Library](https://pypi.org/project/chiasmodon)
+- [💻  Script CLI](https://github.com/chiasmod0n/chiasmodon-mobile)
+- [🌐 Website](https://chiasmodon.club)
+- [💬 Telegram](https://t.me/chiasmod0n)
+- [🐦 X/Twitter](https://x.com/chiasmod0n)
 
 [![star time](https://starchart.cc/chiasmod0n/chiasmodon-mobile.svg?variant=adaptive)](https://starchart.cc/chiasmod0n/chiasmodon-mobile)
