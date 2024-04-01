@@ -36,7 +36,7 @@ Chiasmodon mobile is licensed under the [MIT License](LICENSE).
 
 - [🐍 Python Library](https://pypi.org/project/chiasmodon)
 - [💻  Script CLI](https://github.com/chiasmod0n/chiasmodon-mobile)
-- [🌐 Website](https://chiasmodon.club)
+- [🌐 Website](https://chiasmodon.com)
 - [💬 Telegram](https://t.me/chiasmod0n)
 - [🐦 X/Twitter](https://x.com/chiasmod0n)
 

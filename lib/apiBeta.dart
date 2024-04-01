@@ -10,7 +10,7 @@ bool err = false;
 String msg = "";
 String apiToken = '';
 String processSID = '';
-Uri apiUrl = Uri.parse("https://chiasmodon.club/v2/api/beta");
+Uri apiUrl = Uri.parse("https://beta.chiasmodon.com/v2/api/beta");
 Map<String, String> apiHaders = {'user-agent': 'app/python'};
 
 /*List<String> viewTypes = [
